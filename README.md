@@ -28,7 +28,7 @@ pip install -r requirements.txt
 ```
 
 Также нужен установленный Google Chrome и совместимый chromedriver
-(если Selenium Manager не подхватит его автоматически, укажите путь
+(если Selenium Manager не подхватит его автоматически, путь
 через переменную окружения или Service()).
 
 ## Запуск тестов
